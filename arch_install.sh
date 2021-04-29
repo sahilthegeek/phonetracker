@@ -1,4 +1,4 @@
-echo '[!] Updating...'
+echo '[!] Updating....'
 pacman -Sy > install.log
 echo
 echo '[!] Installing Dependencies...'
