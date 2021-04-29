@@ -1,4 +1,4 @@
-echo '[!] Updating...'
+echo '[!] Updating....'
 apt-get update > install.log
 echo
 echo '[!] Installing Dependencies...'
