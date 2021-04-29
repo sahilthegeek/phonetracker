@@ -52,13 +52,9 @@ version = '1.2.5'
 def banner():
 	print (G +
 	r'''
-                        __
-  ______  ____   ____  |  | __  ____ _______
- /  ___/_/ __ \_/ __ \ |  |/ /_/ __ \\_  __ \
- \___ \ \  ___/\  ___/ |    < \  ___/ |  | \/
-/____  > \___  >\___  >|__|_ \ \___  >|__|
-	 \/      \/     \/      \/     \/        ''' + W)
-	print('\n' + G + '[>]' + C + ' Created By : ' + W + 'thewhiteh4t')
+                       
+SAHIL THE GEEK      ''' + W)
+	print('\n' + G + '[>]' + C + ' Created By : ' + W + 'sahilthegeek')
 	print(G + '[>]' + C + ' Version    : ' + W + version + '\n')
 
 def ver_check():
